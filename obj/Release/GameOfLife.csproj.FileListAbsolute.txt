@@ -1,0 +1,8 @@
+C:\Users\Tom\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe.config
+C:\Users\Tom\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\Users\Tom\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\Tom\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.MainForm.resources
+C:\Users\Tom\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.Properties.Resources.resources
+C:\Users\Tom\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.GenerateResource.Cache
+C:\Users\Tom\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.exe
+C:\Users\Tom\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb

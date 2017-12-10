@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GameOfLife" GeneratedClassName="Strings">
+  <Profiles />
+  <Settings>
+    <Setting Name="line" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> --------------------- </Value>
+    </Setting>
+    <Setting Name="tokenPositve" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">X</Value>
+    </Setting>
+    <Setting Name="tokenNegative" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">O</Value>
+    </Setting>
+    <Setting Name="separator" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> | </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
